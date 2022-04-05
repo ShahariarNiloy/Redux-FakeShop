@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#productList{
+  margin-top: 10px;
+}
+.productImage{
+  padding: 20px 50px;
+  height: 200px!important;
+}
+.productCard{
+  height: 300px !important;
+}
+.productHeader{
+  font-size: small !important;
+}

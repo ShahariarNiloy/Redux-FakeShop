@@ -1,6 +1,6 @@
 # #Redux-FakeShop README
 
-<a href='https://wonderful-cannoli-007181.netlify.app/' target='_blank'>LIVE DEMO</a>
+##<a href='https://wonderful-cannoli-007181.netlify.app/' target='_blank'>LIVE DEMO</a>
 
 # Getting Started with Create React App
 
